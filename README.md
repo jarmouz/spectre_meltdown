@@ -58,7 +58,7 @@ git clone https://github.com/paboldin/meltdown-exploit.git
 - https://www.linkedin.com/in/mondher-smii/
 - smii.mondher@gmail.com
 
-## How to detection : 
+## Detection : 
 
 - https://capsule8.com/blog/detecting-meltdown-using-capsule8/
 
