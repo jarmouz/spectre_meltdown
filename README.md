@@ -47,9 +47,21 @@ git clone https://github.com/paboldin/meltdown-exploit.git
 
 ## References :
 
-- CVE-2017–5753, CVE-2017–5715, and CVE-2017–5754 (Meltdown and Spectre) Windows antivirus patch compatibility : https://docs.google.com/spreadsheets/d/184wcDt9I9TUNFFbsAVLpzAtckQxYiuirADzf3cL42FQ/htmlview?usp=sharing&sle=true
+- https://docs.google.com/spreadsheets/d/184wcDt9I9TUNFFbsAVLpzAtckQxYiuirADzf3cL42FQ/htmlview?usp=sharing&sle=true
 - https://www.theguardian.com/technology/2018/jan/04/meltdown-spectre-computer-processor-intel-security-flaws-explainer
 - https://meltdownattack.com/
 - https://github.com/hannob/meltdownspectre-patches
 
+## Contact :
 
+- https://twitter.com/smii_mondher
+- https://www.linkedin.com/in/mondher-smii/
+- smii.mondher@gmail.com
+
+## How to detection : 
+
+- https://capsule8.com/blog/detecting-meltdown-using-capsule8/
+
+## My article Link : 
+
+- https://medium.com/@smii.mondher/meltdown-and-spectre-cpu-vulnerabilities-explained-and-exploited-ed22cae6aeb0
