@@ -18,5 +18,6 @@ Spectre is slightly different. It potentially allows hackers to trick otherwise 
 
 This test is conducted on a machine with the following CPU architecture :
 
-https://cdn-images-1.medium.com/max/800/1*WR14gI2FY7pkr54D6WJuxg.png
+spectre_meltdown/ls_cpu.png
+
 
