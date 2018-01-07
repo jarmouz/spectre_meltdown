@@ -45,6 +45,14 @@ git clone https://github.com/paboldin/meltdown-exploit.git
 
 ![alt text](https://github.com/jarmouz/spectre_meltdown/blob/master/meltdown_exploit.png)
 
+# I am affected ?
+
+A big thanks for @speed47 
+
+https://github.com/speed47/spectre-meltdown-checker
+
+![alt text](https://github.com/jarmouz/spectre_meltdown/blob/master/iamaffected.png)
+
 ## References :
 
 - https://docs.google.com/spreadsheets/d/184wcDt9I9TUNFFbsAVLpzAtckQxYiuirADzf3cL42FQ/htmlview?usp=sharing&sle=true
